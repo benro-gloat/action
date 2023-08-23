@@ -30,4 +30,4 @@ jobs:
 
           git add *
           git commit -m "Automated action"
-          git push
+          git push --set-upstream origin sidebranch
